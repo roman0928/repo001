@@ -1,7 +1,7 @@
-pierwsza linia kodu
-druga linia kodu
-trzecia linia kodu
+pierwsza linijka programu
+druga linijka programu
+trzecia linijka programu
 
-i jescze jedna
+i jeszcze jedna
 
-?????
+??###???
