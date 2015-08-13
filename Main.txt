@@ -1,9 +1,8 @@
 #!/Pseudokod
 
 pierwsza linijka programu
-druga linijka programu
+DRUGA linijka programu
 trzecia linijka programu
-DRUGA linia kodu
 czwarta linijka kodu
 
 i jeszcze jedna
