@@ -1,6 +1,9 @@
+#!/Pseudokod
+
 pierwsza linia kodu
-druga linia kodu
+DRUGA linia kodu
 trzecia linia kodu
+czwarta linijka kodu
 
 i jescze jedna
 
